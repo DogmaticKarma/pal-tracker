@@ -1,2 +1,2 @@
 # pal-tracker
-This is the training labs for PCF cloud native developer
+This is the training labs for PCF cloud native developer course.
